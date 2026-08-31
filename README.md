@@ -1,0 +1,2 @@
+# Python-Calendar-Mini-Project
+This is a beginner-friendly Python Calendar Mini Project developed using the built-in calendar module. The program allows the user to enter a year, month, and date. It displays the selected month's calendar, checks whether the entered year is a leap year, validates the date, and finds the corresponding weekday.
